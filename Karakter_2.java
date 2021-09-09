@@ -34,7 +34,7 @@ public class Karakter_2 {
 		
 			System.out.println();
 		}
-		
+		// fikk ikke til c-delen av oppgaven. Fikk ikke til å kjøre en ny runde når jeg skrev inn en feil poengsum. 
 		{
 		}
 	}
